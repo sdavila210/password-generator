@@ -17,9 +17,10 @@ To use this webpage, the user can click the red "generate password" button at th
 
 The following image demonstrates the web application's appearance:
 
-![Password Generator web application appearance](./Develop/Images/password-gen.png)
+![Password Generator web application appearance](./Images/password-gen.png)
 
 Here is the link to the deployed application:
+https://sdavila210.github.io/password-generator/
 
 ## Credits
 
